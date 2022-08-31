@@ -1,0 +1,29 @@
+{
+	"author":"DeletedAccount",
+	"authorURL":"https://github.com/DeletedAccount01?tab=repositories",
+	"mods":[
+		{
+			"name":"Opguns",
+			"version":"1.0",
+			"updated":"2022-8-31",
+			"description":"Makes gun op with infinite ammo and machine gun fire rates",
+			"modURL":"https://github.com/DeletedAccount01/OpGuns",
+			"downloadURL":"https://github.com/DeletedAccount01/OpGuns/releases/download/release/Opguns.dll",
+			"testedon":{
+				"tldversion":"2.00",
+				"mlversion":"0.5.4"
+			},
+			"dependencies":[
+			],
+			"updater":{
+				"enable":false,
+				"downloads":[]
+			},
+			"status":{
+				"working":true,
+				"issues":"",
+				"notes":""
+			}
+		}
+	]
+}
